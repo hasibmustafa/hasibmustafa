@@ -1,6 +1,7 @@
-# Hi there 👋, I'm Syed Hasib Mustafa
 
 ![Header](https://scontent.fjsr6-1.fna.fbcdn.net/v/t39.30808-1/484095121_706653185254126_8738846536467111877_n.jpg?stp=c0.34.1470.1470a_dst-jpg_s200x200_tt6&_nc_cat=111&ccb=1-7&_nc_sid=1d2534&_nc_eui2=AeGlieUW323fWT92PH_m9LONGedUj3sige8Z51SPeyKB7-ScKWBsTwlfUuMo0NwE8KHN2YPcUwxdABH3OhntNLwr&_nc_ohc=LXZ0xVB5xYEQ7kNvwFGCG9k&_nc_oc=AdnAD3HeYDl-SiQ419VDN9VEmjzpOZrvMQJhBGNbwSTwrcvvgyM3JBoFc1goVmN_OxU&_nc_zt=24&_nc_ht=scontent.fjsr6-1.fna&_nc_gid=J5AEg-U6FcT5oSqLlX19Vw&oh=00_Afj0Majw9FvrCCPzdqIin8c63WIj7i-eKM34BqyyWi4m1g&oe=6912BD8B)
+
+# Hi there 👋, I'm Hasib Mustafa
 
 ## 🌱 About Me
 I'm a passionate **Frontend Developer** who turns **Figma designs into responsive websites** using modern web technologies.  
@@ -50,9 +51,15 @@ I love learning new skills and building projects that challenge my creativity.
 ## 📊 GitHub Stats
 ![Syed Hasib Mustafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasibmustafa&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasibmustafa&layout=compact&theme=radical)
+### Most Used Languages
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ---
+
 
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=hasibmustafa&theme=radical&no-frame=true&no-bg=true&margin-w=5)
