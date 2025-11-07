@@ -36,7 +36,7 @@ I love learning new skills and building projects that challenge my creativity.
 | Project | Description | Demo |
 |---------|-------------|------|
 | **Portfolio Website** | Modern responsive portfolio with HTML, CSS, JS & Bootstrap | [Live](https://hasibmustafa.github.io/portfolio) |
-| **Veterinary-Pet-Care-HTML-Template** | Figma design converted to responsive HTML/CSS landing page | [Live]((https://hasibmustafa.github.io/PetZo---Veterinary-Pet-Care-HTML-Template/)) |
+| **Veterinary-Pet-Care-HTML-Template** | Figma design converted to responsive HTML/CSS landing page | [Live](https://hasibmustafa.github.io/PetZo---Veterinary-Pet-Care-HTML-Template/) |
 
 
 ---
