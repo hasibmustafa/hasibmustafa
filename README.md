@@ -1,77 +1,95 @@
+<!-- Header Section -->
+<div align="center">
 
-![Header](https://scontent.fjsr6-1.fna.fbcdn.net/v/t39.30808-1/484095121_706653185254126_8738846536467111877_n.jpg?stp=c0.34.1470.1470a_dst-jpg_s200x200_tt6&_nc_cat=111&ccb=1-7&_nc_sid=1d2534&_nc_eui2=AeGlieUW323fWT92PH_m9LONGedUj3sige8Z51SPeyKB7-ScKWBsTwlfUuMo0NwE8KHN2YPcUwxdABH3OhntNLwr&_nc_ohc=LXZ0xVB5xYEQ7kNvwFGCG9k&_nc_oc=AdnAD3HeYDl-SiQ419VDN9VEmjzpOZrvMQJhBGNbwSTwrcvvgyM3JBoFc1goVmN_OxU&_nc_zt=24&_nc_ht=scontent.fjsr6-1.fna&_nc_gid=J5AEg-U6FcT5oSqLlX19Vw&oh=00_Afj0Majw9FvrCCPzdqIin8c63WIj7i-eKM34BqyyWi4m1g&oe=6912BD8B)
+# 🌟 Hi there, I'm <span style="color:#00FFFF;">Hasib Mustafa</span> 👋  
+### 💻 Frontend Developer | Figma ➜ HTML/CSS/JS | Building Interactive Web Experiences  
 
-# Hi there 👋, I'm Hasib Mustafa
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&width=500&lines=Frontend+Developer;Figma+to+HTML%2FCSS+Converter;Responsive+Website+Builder;Love+Clean+Design+%26+Smooth+Animations" alt="Typing SVG" />
 
-## 🌱 About Me
-I'm a passionate **Frontend Developer** who turns **Figma designs into responsive websites** using modern web technologies.  
-I love learning new skills and building projects that challenge my creativity.
-
-- 🔭 Currently working on **modern web apps**  
-- 🌱 Learning **React.js & Tailwind CSS**  
-- 💬 Ask me about **Frontend Development, HTML/CSS, JavaScript**  
-- ⚡ Fun fact: I enjoy creating smooth web animations!
+</div>
 
 ---
 
-## 💻 Skills
+## 🧠 About Me  
 
-### Frontend
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+I'm a passionate **Frontend Developer** who loves transforming **Figma designs** into responsive, pixel-perfect websites using modern technologies.  
+I enjoy exploring UI/UX ideas, building creative projects, and turning ideas into smooth user experiences ✨  
 
-### Tools & Platforms
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
+- 🔭 **Currently working on:** Modern web apps  
+- 🌱 **Learning:** React.js & Tailwind CSS  
+- 💬 **Ask me about:** Frontend Development, HTML/CSS, JS  
+- ⚡ **Fun fact:** I’m addicted to making smooth micro-animations  
 
 ---
 
-## 🚀 Projects
+## 🛠️ Skills  
 
-| Project | Description | Demo |
-|---------|-------------|------|
-| **Portfolio Website** | Modern responsive portfolio with HTML, CSS, JS & Bootstrap | [Live](https://hasibmustafa.github.io/portfolio) |
-| **Veterinary-Pet-Care-HTML-Template** | Figma design converted to responsive HTML/CSS landing page | [Live](https://hasibmustafa.github.io/PetZo---Veterinary-Pet-Care-HTML-Template/) |
+**Frontend**  
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-%230076D6.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-
----
-
-## 📫 Contact Me
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-
----
-
-## 📊 GitHub Stats
-![Syed Hasib Mustafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasibmustafa&show_icons=true&theme=radical)
-
-### Most Used Languages
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+**Tools & Platforms**  
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-%23F4B400.svg?style=for-the-badge&logo=googlechrome&logoColor=white)
 
 ---
 
+## 🚀 Projects  
 
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=hasibmustafa&theme=radical&no-frame=true&no-bg=true&margin-w=5)
-
----
-
-
-## 🌍 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=hasibmustafa&color=brightgreen)
+| 🧩 Project | 📝 Description | 🌐 Demo |
+|------------|----------------|----------|
+| **Portfolio Website** | Responsive portfolio with HTML, CSS, JS & Bootstrap | [Live](https://hasibmustafa.github.io/Portfolio-Website/) |
+| **PetZo - Veterinary Care Template** | Figma design converted to HTML/CSS landing page | [Live](https://hasibmustafa.github.io/PetZo--Veterinary-Pet-Care-HTML-Template/) |
 
 ---
 
-✨ **Let's Connect!**  
-I love collaborating on projects, contributing to open-source, and learning new skills.  
-**Let's build something amazing together!**
+## 📊 GitHub Stats  
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=hasibmustafa&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+![](https://github-readme-streak-stats.herokuapp.com/?user=hasibmustafa&theme=radical&hide_border=true&background=0D1117)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hasibmustafa&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hasibmustafa&theme=radical&no-frame=true&margin-w=10&column=6" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 💌 Contact Me  
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasib.kpdc63@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+
+---
+
+## 👀 Profile Views  
+![](https://komarev.com/ghpvc/?username=hasibmustafa&label=Profile%20Views&color=00FFFF&style=for-the-badge)
+
+---
+
+## ✨ Let's Connect  
+💬 I love collaborating on projects, contributing to open source, and learning new things.  
+Let’s build something **amazing** together 🚀  
+
+---
+
+<div align="center">
+  
+🖤 _“Code is like humor. When you have to explain it, it’s bad.”_ — Cory House  
+<br><br>
+⭐ From [Hasib Mustafa](https://github.com/hasibmustafa)
+
+</div>
