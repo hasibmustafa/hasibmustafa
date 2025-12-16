@@ -43,8 +43,8 @@ I enjoy exploring UI/UX ideas, building creative projects, and turning ideas int
 
 | 🧩 Project | 📝 Description | 🌐 Demo |
 |------------|----------------|----------|
-| **Portfolio Website** | Responsive portfolio with HTML, CSS, JS & Bootstrap | [Live](https://hasibmustafa.github.io/Portfolio-Website/) |
-| **PetZo - Veterinary Care Template** | Figma design converted to HTML/CSS landing page | [Live](https://hasibmustafa.github.io/PetZo--Veterinary-Pet-Care-HTML-Template/) |
+| **Portfolio Website** | Responsive portfolio with HTML, CSS, JS & Bootstrap | [Live](https://themenexa.com/) |
+| **PetZo - Veterinary Care Template** | Figma design converted to HTML/CSS landing page | [Live](https://themenexa.com/petzo/) |
 
 ---
 
