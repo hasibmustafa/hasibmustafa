@@ -43,8 +43,20 @@ I enjoy exploring UI/UX ideas, building creative projects, and turning ideas int
 
 | 🧩 Project | 📝 Description | 🌐 Demo |
 |------------|----------------|----------|
-| **Portfolio Website** | Responsive portfolio with HTML, CSS, JS & Bootstrap | [Live](https://themenexa.com/) |
+| **MY Portfolio Website** | **ThemeNexa** | [Live](https://themenexa.com/) |
 | **PetZo - Veterinary Care Template** | Figma design converted to HTML/CSS landing page | [Live](https://themenexa.com/petzo/) |
+| **Bermiz-Restaurant - Multipurpose Restaurant and Food Delivery HTML Template** | Figma design converted to HTML/CSS landing page | [Live](https://themenexa.com/bermiz-restaurant/) |
+| **Bizkorp - Creative Business Agency HTML Theme** | Figma design converted to HTML/CSS landing page | [Live](https://themenexa.com/bizkorp/) |
+| **eTrade - eCommerce html Template** | Figma design converted to HTML/CSS landing page | [Live](https://themenexa.com/eTrade/) |
+| **Minifolio - Personal Portfolio HTML Template** | Figma design converted to HTML/CSS landing page | [Live](https://themenexa.com/minifolio/) |
+| **Patte - Pet Care and Pet Shop HTML Template** | Figma design converted to HTML/CSS landing page | [Live](https://themenexa.com/patte/) |
+| **Fresheat - Food & Restaurant HTML Template** | Figma design converted to HTML/CSS landing page | [Live](https://themenexa.com/fresheat/) |
+| **Mantu - Modern & Multipurpose ecommerce html themplate** | Figma design converted to HTML/CSS landing page | [Live](https://themenexa.com/mantu/) |
+| **Printnow - Gradient Business Strategy** | Figma design converted to HTML/CSS landing page | [Live](https://themenexa.com/printing-company/) |
+| **Tranzit - Transport & Logistic Services HTML Template** | Figma design converted to HTML/CSS landing page | [Live](https://themenexa.com/tranzit/) |
+| **TASTY - RESTAURANT HTML TEMPLATE** | Figma design converted to HTML/CSS landing page | [Live](https://themenexa.com/tasty/) |
+| **Lovely Wedding - Full Responsive HTML Template** | Figma design converted to HTML/CSS landing page | [Live](https://themenexa.com/lovely-wedding/) |
+
 
 ---
 
