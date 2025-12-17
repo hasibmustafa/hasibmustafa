@@ -47,7 +47,7 @@ I enjoy exploring UI/UX ideas, building creative projects, and turning ideas int
 | **PetZo - Veterinary Care Template** | Figma design converted to HTML/CSS landing page | [Live](https://themenexa.com/petzo/) |
 | **Bermiz-Restaurant - Multipurpose Restaurant and Food Delivery HTML Template** | Figma design converted to HTML/CSS landing page | [Live](https://themenexa.com/bermiz-restaurant/) |
 | **Bizkorp - Creative Business Agency HTML Theme** | Figma design converted to HTML/CSS landing page | [Live](https://themenexa.com/bizkorp/) |
-| **eTrade - eCommerce html Template** | Figma design converted to HTML/CSS landing page | [Live](https://themenexa.com/eTrade/) |
+| **eTrade - eCommerce html Template** | Figma design converted to HTML/CSS landing page | [Live](https://themenexa.com/etrade/) |
 | **Minifolio - Personal Portfolio HTML Template** | Figma design converted to HTML/CSS landing page | [Live](https://themenexa.com/minifolio/) |
 | **Patte - Pet Care and Pet Shop HTML Template** | Figma design converted to HTML/CSS landing page | [Live](https://themenexa.com/patte/) |
 | **Fresheat - Food & Restaurant HTML Template** | Figma design converted to HTML/CSS landing page | [Live](https://themenexa.com/fresheat/) |
